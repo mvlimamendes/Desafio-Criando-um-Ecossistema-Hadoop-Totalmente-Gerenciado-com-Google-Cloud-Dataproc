@@ -1,0 +1,2 @@
+As 10 palavras que mais aparecem no arquivo livro.txt do desafio GCP são: 'the', 'and', 'of', 'I', 'to', 'my', 'a', 'in', 'was' e 'that'.
+
